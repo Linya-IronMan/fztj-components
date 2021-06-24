@@ -1,0 +1,15 @@
+{
+  "name": "@fztj-component/ellipsistooltip",
+  "version": "1.0.0",
+  "description": "在宽度不足以完整显示文本的时候，出现省略号和el-tooltip",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ply",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.4",
+    "vue": "^2.6.14"
+  }
+}

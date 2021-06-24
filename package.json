@@ -3,5 +3,10 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "test": "lerna run test --scope=@fztj-component/ellipsistooltip",
+    "new-version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff"
   }
 }
