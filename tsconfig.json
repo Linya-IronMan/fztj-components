@@ -37,7 +37,7 @@
         "packages/**/*.vue",
         "tests/**/*.ts",
         "tests/**/*.tsx"
-    ],
+, "packages/EllipsisTooltip/inde.js"    ],
     "exclude": [
         "node_modules"
     ]

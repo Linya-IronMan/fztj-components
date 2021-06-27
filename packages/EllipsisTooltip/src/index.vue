@@ -11,7 +11,7 @@
   </el-tooltip>
 </template>
 
-<script>
+<script> 
 export default {
   name: "EllipsisTooltip",
   props: {
