@@ -19,7 +19,7 @@ export default {
     content: String,
     // 设置父元素的样式：比如宽度字体等，需可以自己在组件内部配置样式比如字体大小
     className: String,
-    // 子元素标识（如在同一页面中调用多次组件，此参数不可重复）
+    // 子元素标识（如在同一页面中调用多次组件，ler此参数不可重复）
     refName: String,
     // 默认提供的主题 dark/light
     effect: {
@@ -55,7 +55,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style>
 .ellipsis-tooltip {
   overflow: hidden;
   text-overflow: ellipsis;
