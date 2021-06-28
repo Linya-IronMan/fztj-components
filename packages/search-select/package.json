@@ -1,6 +1,6 @@
 {
   "name": "@cdt/search-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "带有搜索功能的下拉选择菜单（搜索输入在展开菜单中）",
   "author": "chendingtao <chendingtao@fuzhi.ai>",
   "homepage": "https://github.com/Linya-IronMan/fztj-components#readme",

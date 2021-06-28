@@ -1,13 +1,13 @@
 {
   "name": "test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@fztj-component/ellipsistooltip": "^1.1.0",
+    "@fztj-component/ellipsistooltip": "^1.1.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

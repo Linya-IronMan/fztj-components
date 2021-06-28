@@ -1,6 +1,6 @@
 {
   "name": "@cdt/wavesurfer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "根据媒体文件生成波浪图",
   "author": "chendingtao <chendingtao@fuzhi.ai>",
   "homepage": "https://github.com/Linya-IronMan/fztj-components#readme",
