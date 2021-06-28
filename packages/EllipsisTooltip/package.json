@@ -1,6 +1,6 @@
 {
   "name": "@fztj-component/ellipsistooltip",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "在宽度不足以完整显示文本的时候，出现省略号和el-tooltip",
   "main": "index.js",
   "scripts": {
