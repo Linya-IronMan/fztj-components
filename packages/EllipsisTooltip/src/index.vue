@@ -12,8 +12,13 @@
 </template>
 
 <script>
+import { Tooltip } from "element-ui";
+
 export default {
   name: "EllipsisTooltip",
+  components: {
+    "el-tooltip": Tooltip
+  },
   props: {
     // 显示的文字内容
     content: String,

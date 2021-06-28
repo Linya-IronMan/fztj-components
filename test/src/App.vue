@@ -1,23 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-    ----------------------------------------------
-    <EllipsisToolTip />
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <div style="width: 50px">
+      <EllipsisToolTip refName="test" content="Hello World"/>
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import EllipsisToolTip from "@fztj-component/ellipsistooltip"
+import HelloWorld from "./components/HelloWorld.vue";
+import EllipsisToolTip from "@fztj-component/ellipsistooltip";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     HelloWorld,
-    EllipsisToolTip
-  }
-}
+    EllipsisToolTip,
+  },
+};
 </script>
 
 <style>
