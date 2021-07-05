@@ -1,5 +1,5 @@
 {
-  "name": "@cdt/wavesurfer",
+  "name": "@cdt/mediawave",
   "version": "1.0.1",
   "description": "根据媒体文件生成波浪图",
   "author": "chendingtao <chendingtao@fuzhi.ai>",
